@@ -6,6 +6,11 @@ This is an informal 'fork' of the script [presented by Daniel Ellis](https://tow
 
 ## Installation
 
+### Prerequisites
+
+- Python 2.7
+- [Curl](https://curl.se/)
+
 I recommend installing this to your home directory (~) so it may be used anywhere.
 
 ### Steps:
@@ -35,3 +40,6 @@ You may also recursively copy over an entire folder (with parent path) and its c
 ```
 ~/curlgoogle ./folder/*
 ```
+When running the script copy the code displayed and follow the link to your web browser. Input the code into the web browser and select your Oberlin account. Then click enter twice in the terminal and it should show up as the zip file `curldata` in your Google Drive shortly! 
+
+If you wish to unzip the contents in Google Drive I recommend the Zip Extractor extension in Drive.
